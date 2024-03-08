@@ -1,0 +1,16 @@
+body{
+    width: auto;
+    height: 100vh;
+    background-color: #333;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.clock{
+color: yellow;
+font-size: 70px;
+}
+.clock span{
+background-color: rgb(95, 95, 95);
+padding: 10px;
+}
